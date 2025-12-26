@@ -2,10 +2,6 @@
 
 # 🇫🇷 Configuration AIOStreams – 100% Française 🚀 
 
-**Pas de débrideur ?** ➡️ Teste Torbox ici : [https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947](https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947)
-
----
-
 ### ✨ Contenu de cette configuration :
 
 * 🧩 **Plus de 11 add-ons premium :** TorBox, StremThru (Store & Torz), Comet (x3), TorBox Search, StreamFusion, MediaFusion, Zilean, Knaben, TorrentGalaxy.
