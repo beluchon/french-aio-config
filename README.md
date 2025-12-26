@@ -5,7 +5,7 @@
 ### ✨ Contenu de cette configuration :
 
 * 🧩 **Plus de 11 add-ons premium :** TorBox, StremThru (Store & Torz), Comet (x3), TorBox Search, StreamFusion, MediaFusion, Zilean, Knaben, TorrentGalaxy.
-* ⚡ **Vitesse & Cache :** Tri intelligent + déduplication avec "exit conditions" pour un affichage quasi-instantané des contenus pré-téléchargés (Streamthru Store/Torbox).
+* ⚡ **Vitesse & Cache :** Tri intelligent + déduplication avec "exit conditions" pour un affichage quasi-instantané des contenus pré-téléchargés (Streamthru Store/).
 * 🛡️ **Gestion des Flux :**
     * Flux *Unknown* autorisés uniquement pour Streamfusion, Torbox et Jackettio.
     * Filtrage strict des flux *uncached* provenant uniquement de Streamfusion, Jackett et Comet (lié avec YGG).
