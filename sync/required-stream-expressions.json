@@ -1,0 +1,10 @@
+{
+  "values": [
+    "indexer(streams, 'Yggtorrent - API', 'yggapi', 'Ygg API', 'Torrent9', 'free-telecharger', 'Darki-API', 'Wawacity', 'YGGTorrent', 'Comet|Ygg API')",
+    "size(language(regexMatched(streams, 'BTM'), 'Multi'), '27GB')",
+    "regexMatched(streams, 'groupe')",
+    "language(streams, 'French')",
+    "language(regexMatched(streams, 'vostfr'), 'Multi')",
+    "addon(streams, 'FKStream')"
+  ]
+}
