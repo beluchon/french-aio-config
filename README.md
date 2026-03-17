@@ -28,7 +28,7 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 **AIO recommandés :**
 ⛔⛔ *Aucune autre instance publique ne pourra fonctionner avec les regex*
 
-👉 [https://aiostreams.stremio.ru](https://aiostreams.stremio.ru)
+👉
 
 👉 [https://aio.atbphosting.com](https://aio.atbphosting.com)
 
