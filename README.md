@@ -30,8 +30,6 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 
 👉 [https://aiostreams.stremio.ru](https://aiostreams.stremio.ru)
 
-👉 [https://aiostreams.stremiofr.com](https://aiostreams.stremiofr.com)
-
 👉 [https://aio.atbphosting.com](https://aio.atbphosting.com)
 
 👉 [https://aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev)
