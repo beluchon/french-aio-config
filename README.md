@@ -37,6 +37,7 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 ‼️‼️‼️‼️ **Tuto Vidéo :** [https://youtu.be/LGtl-8-jMO0](https://youtu.be/DNDe_DmdfRo)
 
 je vous conseille d'avoir ça comme paramètre sur wastream
+https://wastream.striho.top
 <img width="1372" height="654" alt="image" src="https://github.com/user-attachments/assets/ab8e1116-833a-4e6d-bf4b-9583b49ab768" />
 
 
