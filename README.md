@@ -4,7 +4,7 @@
 
 ### ✨ Contenu de cette configuration :
 
-* 🧩 **Plus de 7 add-ons premium :** , StremThru (Store & Torz), Comet (x3),, StreamFusion, , Zilean, .
+* 🧩 **Plus de 7 add-ons premium :** , StremThru (Store & Torz), Comet (x3), , Zilean, .
 * ⚡ **Vitesse & Cache :** Tri intelligent + déduplication avec "exit conditions" pour un affichage quasi-instantané des contenus pré-téléchargés (Streamthru Store/).
 * 🛡️ **Gestion des Flux :**
     * Flux *Unknown* autorisés uniquement pour Streamfusion, Torbox et Jackettio.
