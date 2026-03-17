@@ -40,11 +40,9 @@ je vous conseille d'avoir ça comme paramètre sur wastream
 https://wastream.striho.top
 <img width="1372" height="654" alt="image" src="https://github.com/user-attachments/assets/ab8e1116-833a-4e6d-bf4b-9583b49ab768" />
 
-
-
-
-
-
+---
+---
+---
 pour activer le vostfr
 <img width="1271" height="809" alt="image" src="https://github.com/user-attachments/assets/d0bf7867-cea4-419b-b5eb-00285e981cba" />
 
