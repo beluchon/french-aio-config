@@ -43,7 +43,7 @@ https://wastream.striho.top
 ---
 ---
 ---
-pour activer le vostfr
+pour activer le vostfr si besoin
 <img width="1271" height="809" alt="image" src="https://github.com/user-attachments/assets/d0bf7867-cea4-419b-b5eb-00285e981cba" />
 
 
