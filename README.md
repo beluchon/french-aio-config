@@ -32,7 +32,7 @@ Les contenus non-FR sont filtrés via des regex avancées. Pour le multilingue, 
 
 👉 [https://aio.atbphosting.com](https://aio.atbphosting.com)
 
-👉 [https://aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev)
+👉 [https://aiostreams.fortheweak.cloud](https://aiostreams.fortheweak.cloud/)
 
 ‼️‼️‼️‼️ **Tuto Vidéo :** [https://youtu.be/LGtl-8-jMO0](https://youtu.be/DNDe_DmdfRo)
 
